@@ -6,7 +6,7 @@
 
 - 🔭 I just launched my first React Project: [Netflix Clone][netflix]!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with others
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
 <br />
